@@ -14,6 +14,8 @@
 
 # Important endpoints of the API
 
+\*\*\* For local use instead of "https://pollingapiuttam.herokuapp.com" just use the localhost link
+
 - Create your own questions: https://pollingapiuttam.herokuapp.com/question/create
 - Delete the questions: https://pollingapiuttam.herokuapp.com/question/:id/delete
 - Add Options to the questions: https://pollingapiuttam.herokuapp.com/question/:id/options/create
